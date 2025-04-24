@@ -1,0 +1,2 @@
+train_loss,test_clean_acc,test_clean_loss,test_asr,test_asr_loss,epoch
+2.3016160735693734,0.1,2.302158635133391,1.0,2.2831499151363492,0

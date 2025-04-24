@@ -144,14 +144,3 @@ optional arguments:
 ├── deeplearning.py   # model training funtions
 └── requirements.txt
 ```
-
-## Contributing
-
-PRs accepted.
-
-## License
-
-MIT © Vera
-# backdoor_attacks
-# Stealthy-trojan-neural-models
-# Stealthy-trojan-neural-models
